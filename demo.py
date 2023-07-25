@@ -1,7 +1,7 @@
 names = ["Mohan", "Daniel", "William"]
 
 names_to_height =  {
-    "Mohan": 75,
-    "Daniel": 85,
+    "Mohan": 73,
+    "Daniel": 88,
     "William": 100
 }
